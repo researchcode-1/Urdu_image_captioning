@@ -1,0 +1,3 @@
+For vitRoberta script is connected with WandAI to generate the figures and graphs and it is compatible with kaggle kernels.
+To manually generate grpahs you have to copy the table values from the trainer and put those into array and plot the loss plots.
+This is an issue with huggingface trainer api that is not resolved yet.
