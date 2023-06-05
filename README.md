@@ -1,1 +1,1 @@
-# Urdu_image_captioning
+# Urdu image captioning
